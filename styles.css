@@ -28,4 +28,3 @@ li:active::before {
 li:active::after {
     content:"Yayyy!!";
 }
-
